@@ -1,6 +1,6 @@
 # Traffic Flow Analysis
 
-This project is a Streamlit application for real-time traffic flow analysis using YOLOv8 for vehicle detection and counting. Users can upload a video file or use a live camera feed to analyze traffic flow and get real-time statistics on vehicle counts.
+This project is a Streamlit application for real-time traffic flow analysis using YOLOv11 for vehicle detection and counting. Users can upload a video file or use a live camera feed to analyze traffic flow and get real-time statistics on vehicle counts.
 
 ## Features
 
